@@ -1,2 +1,2 @@
 # Scikit_learn
-This is just the basic Scikit learning using  different techniques and  algorithms
+This  folder  contains the basic Scikit learning projects using  different techniques and  algorithms. This includes Regression, Classification and Clustering tasks
